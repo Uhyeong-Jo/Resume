@@ -2,4 +2,4 @@
 ---
 ![이력서사진](123.png)
 
-<img src*123.png height*150 width*150>
+<img src=123.png height=150 width=150>
